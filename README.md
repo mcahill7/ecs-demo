@@ -1,4 +1,4 @@
-# miniproject-CAHILL-MASON
+# ecs-demo
 
 This demo project is built using Ruby and Sinatra to expose a rest endpoint which returns the following JSON payload:
 
