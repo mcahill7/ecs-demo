@@ -727,7 +727,7 @@ GEM
     ipaddress (0.8.3)
     jaro_winkler (1.5.2)
     jmespath (1.4.0)
-    json (2.2.0)
+    json (2.3.0)
     multi_json (1.13.1)
     mustermann (1.0.3)
     net-scp (1.2.1)
